@@ -1,5 +1,5 @@
-[submodule "Krushimitra-ai-agent"]
-	path = Krushimitra-ai-agent
+[submodule "krushimitra-ai-agent"]
+	path = krushimitra-ai-agent
 	url = https://github.com/Gyana491/krushimitra-ai-agent.git
 [submodule "kishancallvectordb"]
 	path = kishancallvectordb
