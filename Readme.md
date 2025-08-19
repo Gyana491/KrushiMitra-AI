@@ -106,6 +106,11 @@ Tomato Price in all mandis in odisha
 What's the groundnut price today?
 ```
 
+```
+Where to sell my rice for better prices 
+```
+
+
 ## Crop and Farming Queries
 
 ```
