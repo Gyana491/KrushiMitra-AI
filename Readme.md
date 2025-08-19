@@ -20,6 +20,8 @@ I recommend some from odisha to test the queries in Odia Languages.
 
 Please choose any location in Odisha. Ex: Keonjhar, jajpur , Jagatsinghpur, sambalpur
 
+Also Try Image Input To detect  the Crop Diseases and get actionale advices
+
 
 ## Weather-Related Queries
 
