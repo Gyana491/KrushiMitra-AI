@@ -80,8 +80,17 @@ Also I am integrating more features like:
 - AI powered crop yield calculator
 - personalised weather alert system with actionable advice 
 - and a marketplace for farmers to trade 
+- Building a community for farmers.
 
-and make `KrushiMitra` the ultimate farmer companion to grow their yield.
+To make `KrushiMitra` the ultimate farmer companion to grow their yield.
+
+If I recieved any funding support from you. I will invest all that money to create educational content on YouTube,Instagram, Facebook.
+
+To educate the farmers about smart farming techniques, and profitable tips in all languages.
+
+and generating a sustainable strategy for Krushimitra. 
+
+To make a sustainable community of Farmers.
 
 
 
