@@ -10,6 +10,45 @@ Complete code implementation of the KrushiMitra AI-powered agricultural assistan
 (please open it in your smartphone it really looks beautiful)
 - **Documentation**: https://github.com/Gyana491/krushimitra-ai-agent
 
+
+before you proceed for testing know about our agentic tools : 
+
+`kccdatabaseTool` = Kishan Call center vectorDB
+- used as knowledge source using RAG implementation 
+- currently we have trained it based on Odisha call center database 2024-2025
+- To make it doptable to more states we don't need retrain the model, we just have to ingest the data in our kishacall vectordb tool
+
+`mandipricetool` = Querying Mandi Price From data.gov.in 
+
+- some states and districts don't have mandi price index but if it's a popular city then mandi price work properly
+
+`weatherTool` = to get information about the weather forecast of the the current user.
+
+`webSearchTool` = To pull the most recent information from the internet.
+
+- We implemented it because the data from the government data source is very in consistent.
+
+- our main motto is to provide the most accurate answer to the farmer. 
+
+- web search is tool is used to verify all the facts and and prove the response according to most recent events.
+
+`UserContext` = To understand the Farmers context before giving the answer.
+
+- Farmers are not the mostly educated one. so they can't express the queries properly
+
+- User Context tool always updates and runs inthe background. to gather context such as farme size, farm location, crops, username, current weather.
+
+
+When all these tools combined, they the information are gathered form verified data sources then,
+
+we provide the most accurate answer to the farmer.
+
+and that's the main motto of `KrushiMitra`
+
+
+
+
+
 ## Testing Queries
 
 The following queries are designed to test various capabilities of the KrushiMitra AI Agent. These queries simulate real farmer interactions and cover multiple agricultural domains.
