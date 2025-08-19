@@ -67,7 +67,23 @@ I want every farmer in india use `KrushiMitra`.
 but I can't afford to continue this project and provide it free to all farmers in india.
 
 
-if I receive some encouragement and support from you, I can definitely give it a try. and try to approach the government for support. 
+if I receive some encouragement and support from you, I can definitely give 100% to make it accessible to every farmer in india.
+and try to approach the government for funding support to make it sustainable. 
+
+Also I am integrating more features like: 
+
+- Fertilizer Calculator 
+- Make the UI more intuitive and simple and accessible 
+- KrushiMitra speech to speech Farming advisor
+- AI powered crop yield calculator
+- personalised weather alert system with actionable advice 
+- and a marketplace for farmers to trade 
+
+and make `KrushiMitra` the ultimate farmer companion to grow their yield.
+
+
+
+
 
 
 
