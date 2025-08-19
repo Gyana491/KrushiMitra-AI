@@ -86,7 +86,7 @@ To make `KrushiMitra` the ultimate farmer companion to grow their yield.
 
 If I recieved any funding support from you. I will invest all that money to create educational content on YouTube,Instagram, Facebook.
 
-To educate the farmers about smart farming techniques, and profitable tips in all languages.
+To educate the farmers about smart farming techniques, and profitable tips in all regional languages.
 
 and generating a sustainable strategy for Krushimitra. 
 
