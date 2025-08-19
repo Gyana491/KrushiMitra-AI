@@ -7,6 +7,7 @@ Complete code implementation of the KrushiMitra AI-powered agricultural assistan
 - **YouTube Demo**: https://youtu.be/qeAC5Sxf1Mo
 - **Live Application**: https://cropwise-kohl.vercel.app/
 - **Vector Database Dashboard**: https://kishancallvectordb-816972702925.asia-south1.run.app/
+(please open it in your smartphone it really looks beautiful)
 - **Documentation**: https://github.com/Gyana491/krushimitra-ai-agent
 
 ## Testing Queries
