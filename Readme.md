@@ -92,6 +92,8 @@ and generating a sustainable strategy for Krushimitra.
 
 To make a sustainable community of Farmers.
 
+to ultimate goal is to `make every farmer a smart farmer` , through agentic ai and educating farmers
+
 
 
 ## Testing Queries
