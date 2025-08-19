@@ -13,6 +13,8 @@ Complete code implementation of the KrushiMitra AI-powered agricultural assistan
 
 - **Documentation**: https://github.com/Gyana491/krushimitra-ai-agent
 
+My email id : gyanaranjanmohanta2004@gmail.com
+
 
 before you proceed for testing know about our agentic tools : 
 
@@ -80,12 +82,6 @@ Also I am integrating more features like:
 - and a marketplace for farmers to trade 
 
 and make `KrushiMitra` the ultimate farmer companion to grow their yield.
-
-
-
-
-
-
 
 
 
