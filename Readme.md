@@ -13,11 +13,37 @@ Complete code implementation of the KrushiMitra AI-powered agricultural assistan
 ## Testing Queries
 
 The following queries are designed to test various capabilities of the KrushiMitra AI Agent. These queries simulate real farmer interactions and cover multiple agricultural domains.
+I recommend some from odisha to test the queries in Odia Languages.
+(Please try Voice Input in Odia Languages)
+
+Please choose any location in Odisha. Ex: Keonjhar Odisha, jajpur Odisha
+
+## Weather-Related Queries
+
+```
+Will it rain in the next 3 days? 
+```
+
+```
+Is there a heatwave this week? How will it affect my crop?
+```
+
+```
+What is the best time to plant rice ?
+```
+
+```
+Any risk of heavy rain or flooding in the next few days?
+```
+
+```
+ଧାନ ଗଛରୁ ଧାନ ବିଲରୁ ଆମେ ବାଳୁଙ୍ଗା କେମିତି ଅଲଗା କରିପାରିବା ଆଉ ଘାସ ବାଛିବା ପାଇଁ ସବୁଠୁ ବେଷ୍ଟ ଟାଇମ କେବେ ଏଇ 10 ଦିନ ଭିତରେ କେବେ ଘାସ ବାଛିବା ଟା ଭଲ ହବ
+```
 
 ## Subsidies, Schemes and Loans Queries
 
 ```
-What subsidies can I get for drip irrigation on my 2-acre paddy farm?
+What subsidies can I get for drip irrigation on my 2-acre rice farm?
 ```
 
 ```
@@ -36,13 +62,6 @@ What subsidies are available for seeds and fertilizers for my paddy crop?
 Can I get a subsidy for buying a power tiller?
 ```
 
-```
-How do I apply for crop insurance for my paddy?
-```
-
-```
-Are there any loans available for solar pumps?
-```
 
 ## General Government Schemes Queries
 
@@ -58,27 +77,7 @@ Kalia Yojana Complete details
 What are Some Government schemes for farmers in Odisha?
 ```
 
-## Weather-Related Queries
 
-```
-Will it rain in the next 3 days? When is the best day to spray?
-```
-
-```
-Is there a heatwave this week? How will it affect my crop?
-```
-
-```
-Should I postpone pesticide spraying due to strong wind?
-```
-
-```
-Any risk of heavy rain or flooding in the next few days?
-```
-
-```
-What's the best time today to irrigate or spray?
-```
 
 ## Market Price and Trading Queries
 
@@ -91,23 +90,16 @@ Tomato price today in cuttack? Should I sell now or wait?
 ```
 
 ```
-List all mandi prices of  Cuttack district 
-```
-
-```
 List all Mandi Prices in Cuttack district today
 ```
 
+
 ```
-Should I sell maize at MSP or market rate?
+Tomato prices - which mandi is better today? near me
 ```
 
 ```
-Cotton prices - which mandi is better today? near me
-```
-
-```
-Paddy grade A vs common - what's the price difference?
+Tomato Price in all mandis in odisha
 ```
 
 ```
@@ -117,15 +109,15 @@ What's the groundnut price today?
 ## Crop and Farming Queries
 
 ```
-What is the best time to plant paddy this season?
+What is the best time to plant Rice this season?
 ```
 
 ```
-Which paddy varieties are good for my area?
+Which Rice  varieties suits my land ?
 ```
 
 ```
-When should I apply fertilizer to my crops?
+How to Remove Weed from my rice crop ? When is the right time to do it ? There are a lot of weeds in my rice field. I don't have labours  to work on . suggest me how to remove them.
 ```
 
 ```
@@ -133,15 +125,7 @@ My paddy leaves are yellow. What should I do?
 ```
 
 ```
-How much water does my crop need?
-```
-
-```
 When is the right time to harvest my paddy?
-```
-
-```
-What pesticide should I use for pests in my field?
 ```
 
 ```
@@ -149,7 +133,7 @@ How do I improve soil health in my farm?
 ```
 
 ```
-Which crops are profitable this season?
+Which crops are profitable this season in my location?
 ```
 
 ```
