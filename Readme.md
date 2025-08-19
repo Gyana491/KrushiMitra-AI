@@ -13,10 +13,13 @@ Complete code implementation of the KrushiMitra AI-powered agricultural assistan
 ## Testing Queries
 
 The following queries are designed to test various capabilities of the KrushiMitra AI Agent. These queries simulate real farmer interactions and cover multiple agricultural domains.
+
 I recommend some from odisha to test the queries in Odia Languages.
+
 (Please try Voice Input in Odia Languages)
 
-Please choose any location in Odisha. Ex: Keonjhar Odisha, jajpur Odisha
+Please choose any location in Odisha. Ex: Keonjhar, jajpur , Jagatsinghpur, sambalpur
+
 
 ## Weather-Related Queries
 
