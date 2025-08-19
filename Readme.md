@@ -48,6 +48,14 @@ we provide the most accurate answer to the farmer.
 
 and that's the main motto of `KrushiMitra`
 
+I know it can provide a lot of value to the farmers. infact, my father is a farmer he has been using it since I built it.
+
+I want every farmer in india use `KrushiMitra`.
+but I can't afford to continue this project and provide it free to all farmers in india.
+
+
+if I receive some encouragement and support from you, I can definitely give it a try. and try to approach the government for support. 
+
 
 
 
