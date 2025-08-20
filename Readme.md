@@ -44,7 +44,7 @@ before you proceed for testing know about our agentic tools :
 - User Context tool always updates and runs inthe background. to gather context such as farme size, farm location, crops, username, current weather.
 
 
-`VoiceInput` = Our Voice Input can detect all 30 languages in india. powered india's `sarvam ai` 
+`VoiceInput` = Our Voice Input can detect all 30 languages in india. powered by india's `sarvam ai` 
 
 - I have implemented it because I have seen how farmers use youtube voice search.
 
