@@ -46,9 +46,7 @@ before you proceed for testing know about our agentic tools :
 
 `VoiceInput` = Our Voice Input can detect all 30 languages in india. powered by india's `sarvam ai` 
 
-- I have implemented it because I have seen how farmers use youtube voice search.
-
-- If they know typing , they should go for job not farming
+- I have implemented it because I have seen how mother and father use  `voice search` for youtube and google.
 
 `AIsuggestedQueries` = This is implemented to increase the farmers curiosity to ask more questionsand provide more information about the queries. means farmers don't have to type everytime, 
 
