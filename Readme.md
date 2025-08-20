@@ -21,7 +21,7 @@ before you proceed for testing know about our agentic tools :
 `kccdatabaseTool` = Kishan Call center vectorDB
 - used as knowledge source using RAG implementation 
 - currently we have trained it based on Odisha call center database 2024-2025
-- To make it doptable to more states we don't need retrain the model, we just have to ingest the data in our kishacall vectordb tool
+- To make it adoptable to more states we don't need retrain the model, we just have to ingest the data in our kishacall vectordb tool
 
 `mandipricetool` = Querying Mandi Price From data.gov.in 
 
