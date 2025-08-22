@@ -93,8 +93,36 @@ I recommend some from odisha to test the queries in Odia Languages.
 
 Please choose any location in Odisha. Ex: Banki. Odisha
 
-Also Try Image Input To detect  the Crop Diseases and get actionale advices
+Also Try Image Input To detect  the Crop Diseases and get actionable advices
 
+## Sample Images for Testing Disease Detection
+
+You can use these sample images to test the AI-powered crop disease detection feature:
+
+### Tomato Anthracnose Disease
+![Anthracnose on Tomatoes](images/Readme/anthracnose-tomatoes-tomato-disease-anthracnose-shutterstock-com_15749.jpg)
+
+*Upload this image to test detection of anthracnose disease in tomatoes. The AI should identify the disease and provide treatment recommendations.*
+
+### General Crop Disease Sample
+![Disease Sample 2](images/Readme/disease-2.jpg)
+
+*Upload this image to test general disease detection capabilities and get actionable advice for treatment.*
+
+### How to Test Image Upload Feature
+
+1. **Navigate to the KrushiMitra application**
+2. **Click on the image upload button** or camera icon
+3. **Upload one of the sample images** from the `images/Readme/` folder
+4. **Wait for AI analysis** and receive disease identification
+5. **Get actionable treatment advice** and preventive measures
+
+The AI will analyze the uploaded images and provide:
+- Disease identification
+- Severity assessment
+- Treatment recommendations
+- Preventive measures
+- Cost-effective solutions
 
 ## Weather-Related Queries
 
