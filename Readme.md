@@ -10,20 +10,19 @@ Complete code implementation of the KrushiMitra AI-powered agricultural assistan
 `(please open it in your smartphone it really looks beautiful)`
 
 - **Vector Database Dashboard**: https://kishancallvectordb-816972702925.asia-south1.run.app/
-
 - **Documentation**: https://github.com/Gyana491/krushimitra-ai-agent
 
 My email id : gyanaranjanmohanta2004@gmail.com
 
-
-before you proceed for testing know about our agentic tools : 
+before you proceed for testing know about our agentic tools :
 
 `kccdatabaseTool` = Kishan Call center vectorDB
-- used as knowledge source using RAG implementation 
+
+- used as knowledge source using RAG implementation
 - currently we have trained it based on Odisha call center database 2024-2025
 - To make it adoptable to more states we don't need retrain the model, we just have to ingest the data in our kishacall vectordb tool
 
-`mandipricetool` = Querying Mandi Price From data.gov.in 
+`mandipricetool` = Querying Mandi Price From data.gov.in
 
 - some states and districts don't have mandi price index but if it's a popular city then mandi price work properly
 
@@ -32,28 +31,21 @@ before you proceed for testing know about our agentic tools :
 `webSearchTool` = To pull the most recent information from the internet.
 
 - We implemented it because the data from the government data source is very in consistent.
-
-- our main motto is to provide the most accurate answer to the farmer. 
-
+- our main motto is to provide the most accurate answer to the farmer.
 - web search is tool is used to verify all the facts and and prove the response according to most recent events.
 
 `UserContext` = To understand the Farmers context before giving the answer.
 
 - Farmers are not the mostly educated one. so they can't express the queries properly
-
 - User Context tool always updates and runs inthe background. to gather context such as farme size, farm location, crops, username, current weather.
 
-
-`VoiceInput` = Our Voice Input can detect all 30 languages in india. powered by india's `sarvam ai` 
+`VoiceInput` = Our Voice Input can detect all 30 languages in india. powered by india's `sarvam ai`
 
 - I have implemented it because I have seen how mother and father use  `voice search` for youtube and google.
 
-`AIsuggestedQueries` = This is implemented to increase the farmers curiosity to ask more questionsand provide more information about the queries. means farmers don't have to type everytime, 
+`AIsuggestedQueries` = This is implemented to increase the farmers curiosity to ask more questionsand provide more information about the queries. means farmers don't have to type everytime,
 
 - The Suggested queries are shown based on farmers past conversation history, and weather and location and farmers context.
-
-
-
 
 When all these tools combined, they the information are gathered form verified data sources then,
 
@@ -66,18 +58,17 @@ I know it can provide a lot of value to the farmers. infact, my father is a farm
 I want every farmer in india use `KrushiMitra`.
 but I can't afford to continue this project and provide it free to all farmers in india.
 
-
 if I receive some encouragement and support from you, I can definitely give 100% to make it accessible to every farmer in india.
-and try to approach the government for funding support to make it sustainable. 
+and try to approach the government for funding support to make it sustainable.
 
-Also I am integrating more features like: 
+Also I am integrating more features like:
 
-- Fertilizer Calculator 
-- Make the UI more intuitive and simple and accessible 
+- Fertilizer Calculator
+- Make the UI more intuitive and simple and accessible
 - KrushiMitra speech to speech Farming advisor
 - AI powered crop yield calculator
-- personalised weather alert system with actionable advice 
-- and a marketplace for farmers to trade 
+- personalised weather alert system with actionable advice
+- and a marketplace for farmers to trade
 - Building a community for farmers.
 
 To make `KrushiMitra` the ultimate farmer companion to grow their yield.
@@ -86,13 +77,11 @@ If I recieved any funding support from you. I will invest all that money to crea
 
 To educate the farmers about smart farming techniques, and profitable tips in all regional languages.
 
-and generating a sustainable strategy for Krushimitra. 
+and generating a sustainable strategy for Krushimitra.
 
 To make a sustainable community of Farmers.
 
 to ultimate goal is to `make every farmer a smart farmer` , through agentic ai and educating farmers
-
-
 
 ## Testing Queries
 
@@ -151,7 +140,6 @@ What subsidies are available for seeds and fertilizers for my paddy crop?
 Can I get a subsidy for buying a power tiller?
 ```
 
-
 ## General Government Schemes Queries
 
 ```
@@ -166,8 +154,6 @@ Kalia Yojana Complete details
 What are Some Government schemes for farmers in Odisha?
 ```
 
-
-
 ## Market Price and Trading Queries
 
 ```
@@ -181,7 +167,6 @@ Tomato price today in cuttack? Should I sell now or wait?
 ```
 List all Mandi Prices in Cuttack district today
 ```
-
 
 ```
 Tomato prices - which mandi is better today? near me
@@ -198,7 +183,6 @@ What's the groundnut price today?
 ```
 Where to sell my rice for better prices 
 ```
-
 
 ## Crop and Farming Queries
 
