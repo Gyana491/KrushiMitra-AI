@@ -87,7 +87,7 @@ to ultimate goal is to `make every farmer a smart farmer` , through agentic ai a
 
 The following queries are designed to test various capabilities of the KrushiMitra AI Agent. These queries simulate real farmer interactions and cover multiple agricultural domains.
 
-I recommend some from odisha to test the queries in Odia Languages.
+I recommend someone from odisha to test the queries in Odia Languages.
 
 (Please try Voice Input in Odia Languages)
 
